@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://FinalTriumph123:FinalTriumph123@devconnector-uro8q.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "asecrettoken"
+}
