@@ -1,4 +1,6 @@
 {
   "mongoURI": "mongodb+srv://FinalTriumph123:FinalTriumph123@devconnector-uro8q.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "asecrettoken"
+  "jwtSecret": "asecrettoken",
+  "githubClientID": "2c8eecbdaa6c32d8ccea",
+  "githubSecret": "8af559315d5a23541abab8048147f731451dcd8a"
 }
